@@ -1,4 +1,4 @@
-<!-- Programmer NameL 94
+<!-- Programmer Name: 94
 Displays all the courses onto the screen. Has a hidden form which sends coursenum onclick of a course to selected_course.php -->
 
 <!DOCTYPE html>
