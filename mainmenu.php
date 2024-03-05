@@ -1,5 +1,7 @@
-/* Programmer Name: 94
-Displays a main menu with options to choose from and submits form to menuchoice.php*/
+<?php
+// Programmer Name: 94
+// Displays a main menu with options to choose from and submits form to menuchoice.php
+?>
 
 <!DOCTYPE html>
 <html>
