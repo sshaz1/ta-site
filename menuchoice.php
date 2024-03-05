@@ -1,8 +1,7 @@
+<?php
 //Programmer name:94
 //Takes menuchhoice from main menu and directs to the appropriate file
 
-
-<?php
 if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["menu_choice"])) {
     $selected_option = $_POST["menu_choice"];
 
